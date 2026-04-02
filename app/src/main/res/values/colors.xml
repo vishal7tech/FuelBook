@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Base -->
+    <color name="bg_primary">#0A0E1A</color>
+    <color name="bg_card">#111827</color>
+    <color name="bg_surface">#0D1520</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_cyan">#00D4FF</color>
+    <color name="accent_green">#4ADE80</color>
+    <color name="accent_orange">#F59E0B</color>
+    <color name="accent_purple">#A78BFA</color>
+    <color name="accent_red">#FF4D6A</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8A9BB5</color>
+    <color name="text_muted">#3A4A60</color>
+    <color name="text_body">#E2E8F0</color>
+
+    <!-- Border Colors -->
+    <color name="border_default">#1E3A5F</color>
+    <color name="border_divider">#1E2D45</color>
+
+    <!-- Legacy Colors (kept for compatibility) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- FuelBook App Colors (Legacy - mapped to new theme) -->
+    <color name="primary_blue">#00D4FF</color>
+    <color name="primary_dark_blue">#0A0E1A</color>
+    <color name="accent_blue">#00D4FF</color>
+    <color name="gradient_start">#0F1728</color>
+    <color name="gradient_end">#0A0E1A</color>
+    <color name="card_background">#111827</color>
+    <color name="text_primary_legacy">#FFFFFF</color>
+    <color name="text_secondary_legacy">#8A9BB5</color>
+    <color name="logout_red">#FF4D6A</color>
+    <color name="red">#FF4D6A</color>
+    <color name="hint_color">#3A4A60</color>
+    <color name="success_green">#4ADE80</color>
+</resources>
